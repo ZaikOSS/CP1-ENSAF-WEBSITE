@@ -1,0 +1,74 @@
+{
+    "semester 1": [
+        {
+            "name": "ADO",
+            "url": "https://drive.google.com/file/d/1y9ht5oHDUVqYavLVxgAghTkOpxoGtCXF/view?usp=drive_link"
+        },
+        {
+            "name": "Algèbre 1",
+            "url": "https://drive.google.com/file/d/1MX24lBDINktcZTLw4gX8mzLrPRcPweta/view?usp=drive_link"
+        },
+        {
+            "name": "Algorithme",
+            "url": "https://drive.google.com/file/d/1hkrrPYMKxpBSCLYHbHCZbzzM_HgV5bkX/view?usp=drive_link"
+        },
+        {
+            "name": "Analyse 1",
+            "url": "https://drive.google.com/file/d/1asT-V6KVX6A06BhMONZSB0uPddjLmKG2/view?usp=drive_link"
+        },
+        {
+            "name": "Électrostatique",
+            "url": "https://drive.google.com/file/d/1ZQbwryAyjNEGU7nWGvgxaSPI_nc1JNjI/view?usp=drive_link"
+        },
+        {
+            "name": "Magnétostatique",
+            "url": "https://drive.google.com/file/d/1zeAermNCUYGcKmCu0y2IKzjT2a2ZyTcg/view?usp=drive_link"
+        },
+        {
+            "name": "Mécanique du point",
+            "url": "https://drive.google.com/file/d/1NFXrJaostTeGZnLaHYowQHixmzz4Fiig/view?usp=drive_link"
+        },
+        {
+            "name": "Ouverture d'entreprises",
+            "url": "https://drive.google.com/file/d/1_d1-y-v2MxBp4aK1LvxtbE1QiIvBu8uU/view?usp=drive_link"
+        },
+        {
+            "name": "Technique d'expression et de communication 1",
+            "url": "https://drive.google.com/file/d/1xYgIQ4P0cK1CpvZrsIGnQVRAhq4zc1n7/view?usp=drive_link"
+        }
+    ],
+    "semester 2": [
+        {
+            "name": "Algèbre 2",
+            "url": "https://drive.google.com/file/d/1tNbAt6sM9_byPC2wBOl3p1844BnxLCQb/view?usp=drive_link"
+        },
+        {
+            "name": "Analyse 2",
+            "url": "https://drive.google.com/file/d/1hFXU6KRFixoIP1RJOg5gC3y64i_KMPS5/view?usp=drive_link"
+        },
+        {
+            "name": "Anglais 1",
+            "url": "https://drive.google.com/file/d/1fshlXegQ4bYP7vK9uEJH3e49VSTFSQ4P/view?usp=drive_link"
+        },
+        {
+            "name": "Chimie générale",
+            "url": "https://drive.google.com/file/d/1qyzMaLTMCVnf9v9BxinSyOpMNlQixER-/view?usp=drive_link"
+        },
+        {
+            "name": "Électrocinétique",
+            "url": "https://drive.google.com/file/d/1QNJCF-1lZk1Sc3ElEbQSKCubE0EH_q0k/view?usp=drive_link"
+        },
+        {
+            "name": "Optique géométrique",
+            "url": "https://drive.google.com/file/d/1895JTm3pkxxAqjXQY5h6rh-oD17FIHOr/view?usp=drive_link"
+        },
+        {
+            "name": "Outils informatique",
+            "url": "https://drive.google.com/file/d/1kLF7tbRvEhrFCP1dqtg--Rr6Oe2LiI9u/view?usp=drive_link"
+        },
+        {
+            "name": "Technique d'expression et de communication 2",
+            "url": "https://drive.google.com/file/d/1gz-cZ4qdljcMDP7cTjx-jp21jgaD6MqF/view?usp=drive_link"
+        }
+    ]
+}
